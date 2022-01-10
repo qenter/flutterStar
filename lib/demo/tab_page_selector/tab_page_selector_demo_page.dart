@@ -19,6 +19,7 @@ class TabPageSelectorDemoPage extends StatefulWidget {
 
 class _State extends State<TabPageSelectorDemoPage>
     with SingleTickerProviderStateMixin {
+  String test = "";
   List list = [
     "https://img97.mm3.cc:9797/attach/2021-06-05/1622824834SFNu.jpg",
     "https://img97.mm3.cc:9797/attach/2021-06-05/1622824835Hfpj.jpg",
